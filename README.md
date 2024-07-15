@@ -1,1 +1,7 @@
-# Eric-Jotten-M.-de-Souza.github.io
+# Data Scientist
+
+### Education
+
+### work experience
+
+### Projects
