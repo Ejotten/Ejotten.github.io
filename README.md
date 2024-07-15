@@ -31,7 +31,7 @@ Scientist.<br/>
 ### Predicting Payment Defaults Using Machine Learning (2024)
  -Developed a model using Logistic Regression and Pycaret's LGBM to predict customer payment defaults. Evaluated and compared models with accuracy and AUC-ROC metrics. Deployed the final model via a user-friendly Streamlit application, enabling real-time predictions and better risk management.
 
-![GitHub Pages](https://github.com/Ejotten/default_prediction)
+[GitHub Pages](https://github.com/Ejotten/default_prediction)
 
 **Technologies:** Python, Logistic Regression, Pycaret, LightGBM, Streamlit.
 
@@ -39,7 +39,7 @@ Scientist.<br/>
 ### Income prediction via Regression tree(2024)
  -Used a database of customer information to predict income, enhancing product positioning and marketing campaigns to attract the best customers and ensure appropriate loan approvals.
  
-![GitHub Pages](https://github.com/Ejotten/Income-prediction-reg-tree/tree/main)
+[GitHub Pages](https://github.com/Ejotten/Income-prediction-reg-tree/tree/main)
 
 **Technologies:** Python, regression tree, CRISP-DM, Seaborn, Statsmodels
 
