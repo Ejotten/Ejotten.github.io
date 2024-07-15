@@ -8,32 +8,32 @@ Data Scientist in training at EBAC – British School of Creative Arts and Techn
 ![](images/Livro.jpg =250x250))
 
 ## Education
-●	Data science - EBAC (finishing, 2024).
-●	MBA in business management - USP (2020-2022)
-●	Bachelor's degree in chemistry- USP (2012-2016)
+●	Data science - EBAC (finishing, 2024)<br/>
+●	MBA in business management - USP (2020-2022)<br/>
+●	Bachelor's degree in chemistry- USP (2012-2016)<br/>
 
 ## Work experience
-**Ashland(São Paulo/São Paulo)				 		                       (03/2017- 02/2024)
-Multinational company 
-Scientist.
-●	Working with sales to conduct market analysis, performance indicators, and strategy using tools such as Excel, Power BI, and Salesforce.
-●	Leadership in the development of new products and optimization of production processes.
-●	Creation of dashboards in Power BI to assist in strategic decision-making.
-●	Implementation of innovative solutions to optimize company results.
-●	Develop new (chemical) products for the region.
-●	Conduct and create analyses to test products in customer formulas.
-●	Lead a multidisciplinary innovation group.
-●	Monitor new digital technologies and their importance to the business.
-●	Use Salesforce to record opportunities and projects.
-●	Write articles for presentation at conferences.
-●	Leader of a multidisciplinary group of managers to discuss encouraging innovation.
+**Ashland**(São Paulo/São Paulo)<br/>				 		                       (03/2017- 02/2024)<br/>
+Multinational company<br/> 
+Scientist.<br/>
+●	Working with sales to conduct market analysis, performance indicators, and strategy using tools such as Excel, Power BI, and Salesforce.<br/>
+●	Leadership in the development of new products and optimization of production processes.<br/>
+●	Creation of dashboards in Power BI to assist in strategic decision-making.<br/>
+●	Implementation of innovative solutions to optimize company results.<br/>
+●	Develop new (chemical) products for the region.<br/>
+●	Conduct and create analyses to test products in customer formulas.<br/>
+●	Lead a multidisciplinary innovation group.<br/>
+●	Monitor new digital technologies and their importance to the business.<br/>
+●	Use Salesforce to record opportunities and projects.<br/>
+●	Write articles for presentation at conferences.<br/>
+●	Leader of a multidisciplinary group of managers to discuss encouraging innovation.<br/>
 
 
 ## Projects
 ### Predicting Payment Defaults Using Machine Learning (2024)
  -Developed a model using Logistic Regression and Pycaret's LGBM to predict customer payment defaults. Evaluated and compared models with accuracy and AUC-ROC metrics. Deployed the final model via a user-friendly Streamlit application, enabling real-time predictions and better risk management.
 
-[] https://github.com/Ejotten/default_prediction
+https://github.com/Ejotten/default_prediction
 
 **Technologies:** Python, Logistic Regression, Pycaret, LightGBM, Streamlit.
 
@@ -41,7 +41,7 @@ Scientist.
 ### Income prediction via Regression tree(2024)
  -Used a database of customer information to predict income, enhancing product positioning and marketing campaigns to attract the best customers and ensure appropriate loan approvals.
  
- [] https://github.com/Ejotten/Income-prediction-reg-tree/tree/main
+https://github.com/Ejotten/Income-prediction-reg-tree/tree/main
 
 **Technologies:** Python, regression tree, CRISP-DM, Seaborn, Statsmodels
 
