@@ -3,7 +3,7 @@
 #### Technical Skills:  Python | Panda | Numpy | Seaborn | Scikit Learn | SQL | Matplotlib | Sales force | Power app |  Crisp-dm | Azure ML | Power BI | AWS Athena and S3 | Streamlit
 
 ## Summary
-Data Scientist in training at EBAC – British School of Creative Arts and Technology, undergraduate in Chemistry by the University of São Paulo and postgraduate in business management by the same university. A professional with an innovative profile and a strong aptitude for quick learning. I have diverse experiences in research, development, and data analysis, and skills in data-based problem-solving, communication, and statistics with critical thinking, proficiency in Python, SQL language, and business intelligence
+Data Scientist by EBAC – British School of Creative Arts and Technology, undergraduate in Chemistry by the University of São Paulo, and postgraduate in business management by the same university. A professional with an innovative profile and a strong aptitude for quick learning. I have diverse experiences in research, development, and data analysis, and skills in data-based problem-solving, communication, and statistics with critical thinking, proficiency in Python, SQL language, and business intelligence
 
 ## Education
 ●	Data science - EBAC (finishing, 2024)<br/>
