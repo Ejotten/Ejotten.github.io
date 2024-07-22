@@ -28,6 +28,13 @@ Scientist.<br/>
 
 
 ## Projects
+### Marketing Data Analysis using K-Means and XGBoost (2024)
+ -This project utilizes marketing data to uncover customer patterns and develop predictive models for purchase likelihood. Insights gained can be used to optimize digital marketing budget allocation and predict if a campaign will succeed. 
+
+[GitHub Pages](https://github.com/Ejotten/kaggle-digital-mkt-kmean-xgboost)
+
+**Technologies:** Python, K-means, XGBoost, EDA.
+
 ### Predicting Payment Defaults Using Machine Learning (2024)
  -Developed a model using Logistic Regression and Pycaret's LGBM to predict customer payment defaults. Evaluated and compared models with accuracy and AUC-ROC metrics. Deployed the final model via a user-friendly Streamlit application, enabling real-time predictions and better risk management.
 
@@ -53,15 +60,15 @@ Ashland
 Ashland
  -Optimization of the production process of a company using analyses and scientific and statistical methods, resulting in a cost reduction of 20%.
 
-### Imported goods analisys		2022 
+### Imported Goods analisys		2022 
 Ashland
- -Analysis and processing of Big Data with information on imported products for all of Latin America, enabling better pricing and value positioning for the company, resulting in clearer strategies and profit maximization. 
+ -Analyzing and processing big data with information on imported products for all of Latin America, enabling better pricing and value positioning for the company and resulting in clearer strategies and profit maximization. 
 
 **Technologies:** Excel, Power BI, SQL
 
-### Data visualization  	2020 
+### Data Visualization  	2020 
 Ashland
 
- -Creation of a dashboard for visualization and analysis of sales data, aiding in strategic decision-making with the available data through internal company data. Big data from customs, enabaling better pricing and value positioning for the company, resulting in clearer strategies and profit maximization. 
+ -Creation of a dashboard for visualization and analysis of sales data, aiding in strategic decision-making with the available data through internal company data. Big data from customs, enabling better pricing and value positioning for the company, resulting in clearer strategies and profit maximization. 
 
  **Technologies:** Excel, Power BI
