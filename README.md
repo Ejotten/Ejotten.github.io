@@ -19,11 +19,9 @@ Data scientist.<br/>
 ●	Business Optimization: Providing data-driven recommendations to improve marketing and sales performance.<br/>
 ●	Database Health Analysis: Monitoring data quality, consistency, and completeness to ensure reliable analytics.<br/>
 ●	KPI Development: Defining and tracking key performance indicators to measure business impact and model effectiveness.<br/>
-
-   ### Tech Stack
-●	Programming: Python, SQL, SAS
-●	Machine Learning: Scikit-learn
-●	Data Visualization: Seaborn, Matplotlib, Tableau
+●	Programming: Python, SQL, SAS<br/>
+●	Machine Learning: Scikit-learn<br/>
+●	Data Visualization: Seaborn, Matplotlib, Tableau<br/>
 
 **Ashland**(São Paulo/São Paulo)<br/>				 		                       (03/2017- 02/2024)<br/>
 Multinational company<br/> 
