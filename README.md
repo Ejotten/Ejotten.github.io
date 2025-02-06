@@ -20,7 +20,7 @@ Data scientist.<br/>
 ●	Database Health Analysis: Monitoring data quality, consistency, and completeness to ensure reliable analytics.<br/>
 ●	KPI Development: Defining and tracking key performance indicators to measure business impact and model effectiveness.<br/>
 
-# Tech Stack
+   ### Tech Stack
 ●	Programming: Python, SQL, SAS
 ●	Machine Learning: Scikit-learn
 ●	Data Visualization: Seaborn, Matplotlib, Tableau
